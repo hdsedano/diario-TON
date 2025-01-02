@@ -1,3 +1,8 @@
+---
+title: Introducción
+layout: default
+---
+
 # Introducción
 
 Bienvenido a **Diario-TON**, mi registro personal y abierto sobre mi experiencia en **The Open Network (TON)**. Este diario documentará mis aprendizajes, estrategias y análisis mientras navego por el mundo de TON y las tecnologías blockchain.
