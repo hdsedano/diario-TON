@@ -1,2 +1,16 @@
-# diario-TON
-Diario-TON es un registro abierto y detallado de mi viaje explorando The Open Network (TON). Aquí encontrarás estrategias, análisis, aprendizajes y reflexiones sobre mi experiencia en este ecosistema blockchain. El objetivo es compartir conocimiento y documentar cada paso para que otros puedan aprender y construir sobre esta base.
+# Diario-TON
+**Diario-TON** es un diario abierto sobre mi experiencia explorando **The Open Network (TON)**.
+
+Este repositorio contiene:
+- Archivos de contenido (`contenido/`).
+- Enlaces útiles sobre TON.
+- Documentación del proceso de aprendizaje y estrategias.
+
+Visita el sitio web: [Diario-TON GitHub Pages](https://hdsedano.github.io/diario-TON/).
+
+## Estructura del Proyecto
+- `contenido/`: Carpeta con archivos de contenido.
+- `media/`: Carpeta con imágenes y recursos visuales.
+
+## Licencia
+Este proyecto está licenciado bajo la [MIT License](LICENSE).
